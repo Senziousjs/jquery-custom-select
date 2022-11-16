@@ -36,6 +36,10 @@ body {
    min-width: 300px;
 }
 
+#select > * {
+   box-sizing: border-box;
+}
+
 #select > li {
    list-style: none;
 }
